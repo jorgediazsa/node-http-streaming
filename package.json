@@ -1,14 +1,14 @@
 {
-  "name": "nodejs-sandbox",
+  "name": "node-http-streaming",
   "version": "1.0.0",
-  "description": "Node.js example server starter project",
+  "description": "Node.js http streaming",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
   "keywords": [],
-  "author": "Ives van Hoorne",
+  "author": "Jorge Diaz",
   "devDependencies": {
     "@types/node": "^20.5.9",
     "nodemon": "^3.0.1"
